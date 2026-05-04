@@ -81,14 +81,4 @@ Since **2017**, I have been creating and assisting networks with the following:
 
 <div align="center">
 
-<a href="https://github.com/NURZUZX">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsw0lf&theme=tokyonight" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=itsw0lf&color=FFA500&style=for-the-badge" alt="Profile Views"/>
-
 </div>
