@@ -1,10 +1,10 @@
-# Hey, I am Unverlfied👋
+# Hey, I am itzW0lf👋
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=600&lines=Minecraft+Consultant;Plugin+Developer;Server+Architect;Web+Developer)
 
-  [![Discord](https://img.shields.io/badge/Discord-Unverlfied-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/430689336158322692)
+  [![Discord](https://img.shields.io/badge/Discord-itzW0lfff-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/508559461540036630)
   
 </div>
 
@@ -13,7 +13,7 @@
 ## About me
 
 ```yaml
-Name: Unverlfied
+Name: itzW0lf
 Location: Germany 🇩🇪
 Passion since: 2017
 Focus: Minecraft server infrastructure & development
